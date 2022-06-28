@@ -1,0 +1,60 @@
+{
+    "about_string_one" : "Bu uygulamayı yapan: Oğuz Kağan Güllü ve evet ben Türkiyeliyim. 13 yaşındayım",
+    "about_string_two" : "Bu uygulamayı yazarken bana az çok yardımcı olan birçok kişi oldu. İzninizle bu önemli kişilerin isimlerini sosyal medya hesaplarıyla birlikte aktarmak istiyorum.",
+    "about_string_three" : "Öncelikle bana bir çok konuda yardımı dokunan, üzerimde emeği çok olan, babama. Ardından sevgili mentörüm Said Korkmaz'a teşekkürlerimi iletmek istiyorum. Canım annem ve kız kardeşimide unutmamak lazım tabi. Hem benim hemde Türkiyedeki Flutter topluluğu için çok önemli bir insan olan Veli Bacık'a da teşekkür etmeden olmaz. Birde Discord üzerinden yardım eden Altay a da çok teşekkürler.",
+
+    "version_page": "Bu sürüm, Friends test uygulamasının ilk sürümüdür. Seçenekler, soru ve başlık ekleme. Soruları uygulamaya koymak gibi en temel özelliklere sahiptir. Peki gelecekte ne yapılacak? Güzel bir soru şu anda sadece tek bir cihazda oynanabilen oyun, yakın zamanda uzaktaki arkadaşınızla paylaşma özelliğini eklemeyi planlıyoruz ve varsa hataları düzeltmek istiyoruz.",
+
+    "your_questions": "Soruların",
+    "about":"Hakkında",
+    "version":"Versiyonlar",
+    "contact":"Bağlantı",
+    "no_question":"Hiç Soru Eklenmedi",
+    "start_add_question":"Bir Soru Ekleyerek Başla",
+
+    "time_is_up":"Zaman Doldu",
+
+    "to_home":"Anasayfaya Dön",
+
+    "add_a_new_question":"Yeni Soru Ekle",
+    "update_question":"Sorunu Güncelle",
+    "title":"Başlık",
+    "question":"Soru",
+    "option_one":"Şık Bir",
+    "option_two":"Şık İki",
+
+    "a":"Adının ilk harfi a mı?",
+    "b":"Adının ilk harfi b mi?",
+    "c":"Adının ilk harfi c mi?",
+    "d":"Adının ilk harfi d mi?",
+    "e":"Adının ilk harfi e mi?",
+    "f":"Adının ilk harfi f mi?",
+    "g":"Adının ilk harfi g mi?",
+    "h":"Adının ilk harfi h mi?",
+    "i":"Adının ilk harfi i mi?",
+    "j":"Adının ilk harfi j mi?",
+    "k":"Adının ilk harfi k mi?",
+    "l":"Adının ilk harfi l mi?",
+    "m":"Adının ilk harfi m mi?",
+    "n":"Adının ilk harfi n mi?",
+    "o":"Adının ilk harfi o mu?",
+    "p":"Adının ilk harfi p mi?",
+    "r":"Adının ilk harfi r mi?",
+    "s":"Adının ilk harfi s mi?",
+    "t":"Adının ilk harfi t mi?",
+    "u":"Adının ilk harfi u mu?",
+    "v":"Adının ilk harfi v mi?",
+    "y":"Adının ilk harfi y mi?",
+    "z":"Adının ilk harfi z mi?",
+    "watch_friends": "Friends dizisini izledin mi?",
+    "yes":"evet",
+    "no": "hayır",
+
+    "ready_one":"Hazır Mısın?",
+    "ready_two":"Hazır",
+
+    "results":"Sonuçlar",
+    "answered":"Arkadaşın Şöyle Cevapladı:",
+
+    "required":"Bu alan boş bırakılamaz."
+}

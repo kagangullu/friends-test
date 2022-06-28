@@ -1,0 +1,60 @@
+{
+    "about_string_one" : "This app made by: Oğuz Kağan Güllü, and yes I'm from Turkey. I'm 13 years old",
+    "about_string_two" : "There were many people who helped me more or less while writing this application. With your permission, I would like to pass on the names of these important people along with their social media accounts.",
+    "about_string_three" : "First of all, to my father, who helped me in many ways and had a lot of work on me. Then I would like to express my thanks to my dear mentor Said Korkmaz. Of course, we should not forget my dear mother and sister. It is not possible to thank Veli Bacik, who is a very important person both for me and for the Flutter community in Turkey. Also, many thanks to Altay for helping out on Discord.",
+
+    "version_page": "This version is the first version of the Friends test app. Options, question, and adding a title. It has the most basic features such as putting questions into practice. So what will be done in the future? A good question is the game that can only be played on a single device now, we are planning to add the feature of sharing with your distant friend in the near future and we want to fix any errors.",
+    
+    "your_questions": "Your Questions",
+    "about":"About",
+    "version":"Version",
+    "contact":"Contact",
+    "no_question":"No Added Questions",
+    "start_add_question":"Add a Question to get started",
+
+    "time_is_up":"Time is Up!",
+
+    "to_home":"Back to Home",
+
+    "add_a_new_question":"Add a New Question",
+    "update_question":"Update your Question",
+    "title":"Title",
+    "question":"Question",
+    "option_one":"Option One",
+    "option_two":"Option Two",
+
+    "a":"Is the first letter of your name a?",
+    "b":"Is the first letter of your name b?",
+    "c":"Is the first letter of your name c?",
+    "d":"Is the first letter of your name d?",
+    "e":"Is the first letter of your name e?",
+    "f":"Is the first letter of your name f?",
+    "g":"Is the first letter of your name g?",
+    "h":"Is the first letter of your name h?",
+    "i":"Is the first letter of your name i?",
+    "j":"Is the first letter of your name j?",
+    "k":"Is the first letter of your name k?",
+    "l":"Is the first letter of your name l?",
+    "m":"Is the first letter of your name m?",
+    "n":"Is the first letter of your name n?",
+    "o":"Is the first letter of your name o?",
+    "p":"Is the first letter of your name p?",
+    "r":"Is the first letter of your name r?",
+    "s":"Is the first letter of your name s?",
+    "t":"Is the first letter of your name t?",
+    "u":"Is the first letter of your name u?",
+    "v":"Is the first letter of your name v?",
+    "y":"Is the first letter of your name y?",
+    "z":"Is the first letter of your name z?",
+    "watch_friends":"Have you watched the Friends series?",
+    "yes":"yes",
+    "no": "no",
+
+    "ready_one":"Are You Ready?",
+    "ready_two":"READY",
+
+    "results":"Results",
+    "answered":"Your Friend Answered",
+
+    "required":"Field is required."
+}
